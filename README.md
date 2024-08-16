@@ -1,5 +1,5 @@
 # NKU-CSSE0027-软件安全
-## 提供软件安全实验报告Lab1-Lab13
+## 提供软件安全实验报告Lab1-Lab13，以及课程大作业——论文阅读
 
 ### Lab1 IDE反汇编实验
 
@@ -68,3 +68,11 @@ int main(int argc, char *argv[])
 ### Lab13 复现反序列化漏洞
 
 复现$12.2.3$中的反序列化漏洞，并执行其他的系统命令。
+
+### 论文阅读
+#### 论文题目
+DynSQL: Stateful Fuzzing for Database Management Systems with Complex and Valid SQL Query Generation
+
+提供论文翻译，答辩ppt等内容
+
+
